@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### Be in Use
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantoro)](https://github.com/hantoro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grw05177@naver.com)](https://github.com/grw05177@naver.com/github-readme-stats)
