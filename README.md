@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90)
 ## Among various experiences
 ### Hi there 👋
 
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Django-#092E20?style=flat&logo=Django&logoColor=white"/>
