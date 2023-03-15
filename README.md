@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MyGitHub&fontSize=90)
 ## Among various experiences
-### Hi there 👋
 
+### Hi there 👋 
+ - I'm studying Beckend from anywhere.
+ - I'm studying Algorithms from anywhere.
+ - I'm studying Another from anywhere.
 
 <!--
 **hantoro123/hantoro123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +22,6 @@ Here are some ideas to get you started:
 
 
 ### Be in Use
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantoro)](https://github.com/hantoro/github-readme-stats)
