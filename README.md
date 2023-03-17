@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-### Be in Use
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+### Be in Use and Study
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hantoro123)](https://github.com/hantoro123/github-readme-stats)
