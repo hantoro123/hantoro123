@@ -1,7 +1,7 @@
 ## Among various experiences
 
 ### Hi there 👋 
- - I'm studying Beckend from anywhere.
+ - I'm studying Backend from anywhere.
  - I'm studying Algorithms from anywhere.
  - I'm studying Another from anywhere.
 
